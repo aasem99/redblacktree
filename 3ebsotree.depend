@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1586031109 source:c:\users\admin\documents\3ebsotree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+
